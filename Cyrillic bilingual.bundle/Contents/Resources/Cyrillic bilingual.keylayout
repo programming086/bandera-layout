@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-03-19 at 01:47 (GMT+2)-->
 <!--Last edited by Ukelele version 2.2.8 on 2014-03-19 at 02:39 (GMT+2)-->
-<keyboard group="7" id="19795" name="Cyrillic bilingual" maxout="1">
+<keyboard group="7" id="19795" name="Українська_RU" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
     </layouts>
@@ -208,7 +208,7 @@
             <key code="39" output="Э"/>
             <key code="40" output="Л"/>
             <key code="41" output="Ж"/>
-            <key code="42" output="Ё"/>
+            <key code="42" output="/"/>
             <key code="43" output="Б"/>
             <key code="44" output=","/>
             <key code="45" output="Т"/>
@@ -216,7 +216,7 @@
             <key code="47" output="Ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="["/>
+            <key code="50" output="Ё"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -655,7 +655,7 @@
             <key code="39" output="э"/>
             <key code="40" output="л"/>
             <key code="41" output="ж"/>
-            <key code="42" output="ё"/>
+            <key code="42" output="\"/>
             <key code="43" output="б"/>
             <key code="44" output="."/>
             <key code="45" output="т"/>
@@ -663,7 +663,7 @@
             <key code="47" output="ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="]"/>
+            <key code="50" output="ё"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -767,7 +767,7 @@
             <key code="39" output="Э"/>
             <key code="40" output="Л"/>
             <key code="41" output="Ж"/>
-            <key code="42" output="Ё"/>
+            <key code="42" output="/"/>
             <key code="43" output="Б"/>
             <key code="44" output=","/>
             <key code="45" output="Т"/>
@@ -775,7 +775,7 @@
             <key code="47" output="Ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="["/>
+            <key code="50" output="Ё"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -991,7 +991,7 @@
             <key code="39" output="Э"/>
             <key code="40" output="Л"/>
             <key code="41" output="Ж"/>
-            <key code="42" output="Ё"/>
+            <key code="42" output="/"/>
             <key code="43" output="Б"/>
             <key code="44" output="."/>
             <key code="45" output="Т"/>
@@ -999,7 +999,7 @@
             <key code="47" output="Ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="]"/>
+            <key code="50" output="ё"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
