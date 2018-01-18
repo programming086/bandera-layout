@@ -421,7 +421,7 @@
             <key code="29" output=")"/>
             <key code="30" output="ї"/>
             <key code="31" output="&#x0027;"/>
-            <key code="32" output="ѓ"/>
+            <key code="32" output="ґ"/>
             <key code="33" output="“"/>
             <key code="34" output="ѕ"/>
             <key code="35" output="‘"/>
@@ -533,7 +533,7 @@
             <key code="29" output="}"/>
             <key code="30" output="Ї"/>
             <key code="31" output="„"/>
-            <key code="32" output="Ѓ"/>
+            <key code="32" output="Ґ"/>
             <key code="33" output="”"/>
             <key code="34" output="Ѕ"/>
             <key code="35" output="’"/>

@@ -20,6 +20,7 @@ Ukrainian-cyrillic keys:
 - `alt-и` or `alt-і` for і
 - `alt-й` or `alt-§` or `alt-ї` for ї
 - `alt-э` є
+- `alt-г` for ґ
 
 Bonus keys:
 
