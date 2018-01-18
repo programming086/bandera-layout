@@ -17,8 +17,8 @@ and go to language preferences.
 
 Ukrainian-cyrillic keys:
 
-- `alt-и` for і
-- `alt-й` or `alt-§` for ї
+- `alt-и` or `alt-і` for і
+- `alt-й` or `alt-§` or `alt-ї` for ї
 - `alt-э` є
 
 Bonus keys:
